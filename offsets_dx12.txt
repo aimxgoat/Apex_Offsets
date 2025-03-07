@@ -1,5 +1,5 @@
 [Interfaces]
- 
+ OFF_GLOW_HIGHLIGHTS 0x718DFD0
 [Miscellaneous]
 TimeDateStamp=0x67c0dcc8
 CheckSum=0x28d8332
